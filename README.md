@@ -46,7 +46,7 @@ This project helped me strengthen my understanding of:
  📬 Feedback & Contributions
 
 I’m always open to feedback and suggestions to improve!
-Feel free to fork the project, submit pull requests, or connect with me on [LinkedIn](https://www.linkedin.com/in/moneeba-sajid).
+Feel free to fork the project, submit pull requests, or connect with me on [LinkedIn](www.linkedin.com/in/engineer-moneeba-230598373).
  📌 Acknowledgements
 
 This project was inspired by my passion for building **aesthetic and interactive user interfaces** and guided by my own learning experiences in frontend development.
