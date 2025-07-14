@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Image Gallery</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Filter Buttons -->
+  <div class="filters">
+    <button onclick="filterImages('all')">All</button>
+    <button onclick="filterImages('with watch')">With Watch</button>
+    <button onclick="filterImages('with hijab')">With Hijab</button>
+  </div>
+
+  <!-- Image Gallery -->
+ <!-- Image Gallery -->
+<div class="gallery">
+  <div class="gallery-item" data-category="all">
+    <img src="images/image1.jpg" alt="Girl Image 1">
+  </div>
+  <div class="gallery-item" data-category="all">
+    <img src="images/image2.jpg" alt="Girl Image 2">
+    
+ 
+  </div>
+  <div class="gallery-item" data-category="all">
+    <img src="images/image5.jpg" alt="Girl Image 2">
+  </div>
+  <div class="gallery-item" data-category="all">
+    <img src="images/image6.jpg" alt="Girl Image 3">
+  </div>
+  <div class="gallery-item" data-category="with watch">
+    <img src="images/image7.jpg" alt="with watch Image 2">
+  </div>
+  <div class="gallery-item" data-category="with watch">
+    <img src="images/image8.jpg" alt="with watch Image 3">
+  </div>
+   <div class="gallery-item" data-category="with hijab">
+    <img src="images/image12.jpg" alt="with hijab Image 5">
+  </div>
+  <div class="gallery-item" data-category="all">
+    <img src="images/image3.jpg" alt="Girl Image 2"> 
+  </div>
+  <div class="gallery-item" data-category="all">
+    <img src="images/image4.jpg" alt="Girl Image 1">
+  </div>
+  <div class="gallery-item" data-category="with watch">
+    <img src="images/image10.jpg" alt="with watch Image 3">
+  </div>
+  <div class="gallery-item" data-category="with hijab">
+    <img src="images/image11.jpg" alt="with hijab Image 4">
+  </div>
+  <div class="gallery-item" data-category="with watch">
+    <img src="images/image9.jpg" alt="with watch Image 4">
+  </div>
+</div>
+
+    
+  </div>
+
+  <!-- Lightbox -->
+  <div id="lightbox" class="lightbox">
+    <span class="close">&times;</span>
+    <img class="lightbox-content" id="lightbox-img" />
+    <button id="prevBtn">⟨</button>
+    <button id="nextBtn">⟩</button>
+  </div>
+
+  <!-- JS Script -->
+  <script src="script.js"></script>
+</body>
+</html>
