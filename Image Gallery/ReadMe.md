@@ -87,7 +87,7 @@ Through this project, I gained hands-on experience in:
 
 I’d love to hear your feedback or suggestions!
 
-* 📧 Email: [m10579390@gmail.com](mailto:m10579390@gmail.com)
+
 * 🔗 LinkedIn: [Moneeba Sajid](https://www.linkedin.com/in/moneeba-sajid)
 * 🌐 GitHub: [github.com/MoneebaSajid](https://github.com/MoneebaSajid)
 
